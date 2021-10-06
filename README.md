@@ -1,1 +1,1 @@
-# promice-api
+# promise-api
